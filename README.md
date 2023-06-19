@@ -1,6 +1,6 @@
 # 42_Get_Next_Line
 
-Bu proje, bir dosyadaki satırları okumak için basit ve etkili bir fonksiyon olan `get_next_line`'ı içerir. Bu fonksiyon, verilen bir dosya tanıtıcısından okuma yapar ve her çağrıldığında dosyadaki bir sonraki satırı döndürür.
+_Get_Next_Line_, C programlama dilinde dosya işlemleri için geliştirilmiş bir proje olup, bir dosya tanıtıcısından satırları okuyan ve her çağrıldığında bir sonraki satırı döndüren bir işlevi içerir. Bu projenin temel amacı, dosyalardan satır okuma işlemini hızlı, etkili ve hatasız bir şekilde gerçekleştirmek ve programcılara kullanımı kolay bir araç sağlamaktır. _Get_Next_Line_, bellek sızıntısı olmadan çalışır ve minimum kaynak kullanımıyla dosyalardan okuma yapabilir. Bu sayede, dosya işleme işlevselliğini genişletmek isteyen geliştiricilere büyük bir kolaylık sağlar. Projeyi kullanmak için sadece ilgili dosya tanıtıcısını belirtmek ve `get_next_line` işlevini çağırmak yeterlidir.
 
 ## Nasıl Kullanılır
 
