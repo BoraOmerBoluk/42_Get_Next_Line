@@ -32,7 +32,7 @@ Bu proje, bir dosyadaki satırları okumak için basit ve etkili bir fonksiyon o
    return (0);
    }
    ```
-   _Not: Daha fazla çalıştırma örneği dosya içindedir._
+   _Not: Daha fazla çalıştırma örneği klasör içindedir._
    
 ## 4. Proje Özellikleri 
 - Dosyalardan satır okumak için kullanışlı bir işlev sağlar.
