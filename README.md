@@ -58,4 +58,4 @@ Bu proje, bir dosyadaki satırları okumak için basit ve etkili bir fonksiyon o
 5. İşlem tamamlandığında dosya kapandığında veya bir hata oluştuğunda **_NULL_** veya **_-1_** döndürür.  
 
 ## Kaynaklar  
-Bu proje, 42 School tarafından verilen görevlerden biridir. Proje ile ilgili daha fazla bilgi ve detaylı açıklamalar için klasör içindeki en.subject.pdf dosyasını inceleyebilirsiniz.****
+Bu proje, 42 School tarafından verilen görevlerden biridir. Proje ile ilgili daha fazla bilgi ve detaylı açıklamalar için klasör içindeki en.subject.pdf dosyasını inceleyebilirsiniz.
