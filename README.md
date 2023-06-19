@@ -58,4 +58,4 @@ _Get_Next_Line_, C programlama dilinde dosya işlemleri için geliştirilmiş bi
 5. İşlem tamamlandığında dosya kapandığında veya bir hata oluştuğunda **_NULL_** veya **_-1_** döndürür.  
 
 ## Kaynaklar  
-Bu proje, 42 School tarafından verilen görevlerden biridir. Proje ile ilgili daha fazla bilgi ve detaylı açıklamalar için klasör içindeki en.subject.pdf dosyasını inceleyebilirsiniz.
+Bu proje, _42 School_ tarafından verilen görevlerden biridir. Proje ile ilgili daha fazla bilgi ve detaylı açıklamalar için klasör içindeki en.subject.pdf dosyasını inceleyebilirsiniz.
